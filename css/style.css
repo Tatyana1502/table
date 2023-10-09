@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    border: 1px solid red; 
+}
+table {
+    table-layout: auto;
+    border: 1px solid black;  
+    border-collapse: collapse;
+    border-spacing: 4px
+} 
+
+td {
+    width: 20px;
+    line-height: 20px;
+    font-size: 10px;
+    text-align: center;
+    border: 1px solid black;  
+    border-collapse: collapse;
+
+}
